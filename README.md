@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=".github/media/code.webp?raw=true" alt="Coding Workspace">
+  <img src="[.github/media/code.webp?raw=true](https://raw.githubusercontent.com/demartini/demartini/main/.github/media/code.webp)" alt="Coding Workspace">
 </p>
 
 <p align="center">
