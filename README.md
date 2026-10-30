@@ -13,8 +13,8 @@ class SoftwareEngineer:
     def __init__(self):
         self.name = "Mishary"
         self.role = "Software Engineer"
-        self.role = "Penetration Lab" 
-        self.language_spoken = ["en_AR", "en_US"]
+        self.role = "Penetration PT" 
+        self.language_spoken = ["ar_SA", "en_US"]
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
@@ -30,15 +30,7 @@ me.say_hi()
 
 - Personal website and blog: https://github.com/HACK-MR-B
 
-### 📔 Latest Blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [Java Concurrent Programming 1 - Fundamentals](https://zhenye-na.github.io/blog/2023/05/24/fundamentals-of-java-concurrenct-programming.html)
-- [Introduction to Dependency Injection in Java](https://zhenye-na.github.io/blog/2022/09/18/intro-to-java-dependency-injection.html)
-- [Distributed Transactions and Sagas in Microservices](https://zhenye-na.github.io/blog/2022/06/19/distributed-transactions-and-sagas-in-microservices.html)
-- [Design Patterns: Strategy Pattern](https://zhenye-na.github.io/blog/2022/05/16/design-patterns-the-strategy-pattern.html)
-- [Java Best Practices - Logging](https://zhenye-na.github.io/blog/2022/05/03/java-best-practices-logging.html)
-<!-- BLOG-POST-LIST:END -->
 
 ## 🔧 Technologies & Tools
 
