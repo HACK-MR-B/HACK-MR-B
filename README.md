@@ -11,15 +11,18 @@
 class SoftwareEngineer:
 
     def __init__(self):
-        self.name = "Zhenye Na"
+        self.name = "Mishary"
         self.role = "Software Engineer"
-        self.language_spoken = ["zh_CN", "en_US"]
+        self.role = "Penetration Lab" 
+        self.language_spoken = ["en_AR", "en_US"]
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
 
 
 me = SoftwareEngineer()
+me = hacker()
+me-local = Kingdom_of_Saudi_Arabia() 
 me.say_hi()
 ```
 
