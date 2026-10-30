@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/68203642?v=4" width="100%" alt="Banner">
+  <img src="https://avatars.githubusercontent.com/u/68203642?v=4" width="10%" alt="Banner">
 </div>
 
 <h3>ABOUT ME</h3>
