@@ -64,8 +64,12 @@ me.say_hi()
 
 
 **hacker = SA:**
-
-![Open Collective backers](https://img.shields.io/opencollective/backers/hackers)
+![Web Pentesting](https://img.shields.io/badge/Security-Web%20Pentesting-informational?style=flat&logo=burpsuite&logoColor=white&color=6aa6f8)
+![Network Hacking](https://img.shields.io/badge/Security-Network%20Hacking-informational?style=flat&logo=wireshark&logoColor=white&color=6aa6f8)
+![Physical Hacking](https://img.shields.io/badge/Security-Physical%20Hacking-informational?style=flat&logo=flipperzero&logoColor=white&color=6aa6f8)
+![WiFi Hacking](https://img.shields.io/badge/Security-Wireless%20Security-informational?style=flat&logo=kalilinux&logoColor=white&color=6aa6f8)
+![Metasploit](https://img.shields.io/badge/Tools-Metasploit-informational?style=flat&logo=metasploit&logoColor=white&color=6aa6f8)
+![Radio & SDR](https://img.shields.io/badge/Hardware-SDR%20%26%20RF-informational?style=flat&logo=gnuradio&logoColor=white&color=6aa6f8)
 
 **Tools and Services:**
 
