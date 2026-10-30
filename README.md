@@ -61,7 +61,7 @@ me.say_hi()
 
 **hacker = SA:**
 
-![Open Collective backers](https://img.shields.io/opencollective/backers/:collective)
+![Open Collective backers](https://img.shields.io/opencollective/backers/hackers)
 
 **Tools and Services:**
 
